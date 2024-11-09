@@ -2,7 +2,12 @@
 title: "Source Separation (The Submariner)"
 author: "Alex Gibberd"
 date: "2024-11-09"
-output: html_document
+output: 
+  html_document:
+    theme: flatly
+    toc: yes
+    toc_float:
+      collapsed: true
 ---
 
 ```{r setup, include=FALSE}
@@ -15,6 +20,10 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 We are in a submarine and can listen to the world outside through sonar attatched to the outside of the vessel. Let's consider that we have $p$ different sensors. Each sensor can record a sound wave.
 
 In the case where $p=2$ we have two sound recordings. These will contain a mixture of different sounds from sources that are in the nearby area, e.g., a source may be a ship, or a submarine, or even whale.
+
+```{r, include=TRUE, fig.align="center", fig.cap=c("Sketch of the example considered here."), echo=FALSE}
+knitr::include_graphics("sonar.png")
+```
 
 ## Independent Component Analysis (ICA)
 
@@ -182,6 +191,7 @@ It is important that as students you can learn about techniques such as ICA, and
 
 _I hope you enjoyed this tutorial, and look forward to seeing some of you in Lancaster for our BSc Mathematics and Economics programme. If you want more information on the programme, please do reach out to your teachers. You can also email me at a.gibberd@lancaster.ac.uk_
 
+(https://www.lancasteruniversity.cn/)[For more information on Lancaster University (click here)]
 
 
 
