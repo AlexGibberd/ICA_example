@@ -49,8 +49,9 @@ library(glmnet)
 
 _Note: Sound files are actually quite large, without compression these files are 15Mb and 8Mb respectively._
 
-[https://github.com/AlexGibberd/ICA_example/blob/main/docs/22__19_07_13_adventure_maniobra.wav](22__19_07_13_adventure_maniobtra.wav (Ship sound))
-[https://github.com/AlexGibberd/ICA_example/blob/main/docs/79__23_07_13_H3_zodiac.wav](79__23_07_13_H3_zodiac.wav (Submarine sound))
+[22__19_07_13_adventure_maniobtra.wav (Ship sound)](https://github.com/AlexGibberd/ICA_example/blob/main/docs/22__19_07_13_adventure_maniobra.wav)
+
+[79__23_07_13_H3_zodiac.wav (Submarine sound)](https://github.com/AlexGibberd/ICA_example/blob/main/docs/79__23_07_13_H3_zodiac.wav)
 
 You can use the code below to read in the data and then we will downsample the files (to make them a smaller size and easier to process). We can then plot the data to visualise it, and play the sounds. Note, it is hard to actually visaulise the whole sound file as there are so many samples.
 
