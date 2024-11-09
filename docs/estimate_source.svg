@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="960"
+   height="480"
+   viewBox="0 0 960 480"
+   sodipodi:docname="estimate_source.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath22">
+      <path
+         d="M 59.04,73.44 H 329.76 V 300.96 H 59.04 Z"
+         id="path20" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath100">
+      <path
+         d="M 0,0 H 360 V 360 H 0 Z"
+         id="path98" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath120">
+      <path
+         d="M 59.04,73.44 H 329.76 V 300.96 H 59.04 Z"
+         id="path118" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath130">
+      <path
+         d="M 419.04,73.44 H 689.76 V 300.96 H 419.04 Z"
+         id="path128" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath214">
+      <path
+         d="M 360,0 H 720 V 360 H 360 Z"
+         id="path212" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath234">
+      <path
+         d="M 419.04,73.44 H 689.76 V 300.96 H 419.04 Z"
+         id="path232" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.2989583"
+     inkscape:cx="447.6664"
+     inkscape:cy="240.19246"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page8"
+       width="960"
+       height="480" />
+  </sodipodi:namedview>
+  <g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,480)">
+    <g
+       id="g12">
+      <path
+         d="M 0,0 H 720 V 360 H 0 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path14" />
+    </g>
+    <g
+       id="g16">
+      <g
+         id="g18"
+         clip-path="url(#clipPath22)">
+        <path
+           d="m 69.07,160.08 1.26,-15.15 1.26,103.75 1.26,-92.19 1.26,50.21 1.25,12.18 1.26,49.34 1.26,-11.78 1.26,1.46 1.26,-77.24 1.26,23.01 1.26,-27.96 1.26,-28.79 1.26,82.05 1.26,-6.73 1.26,-62.59 1.26,4.29 1.26,54.35 1.26,-38.07 1.26,78.13 1.26,-76.65 1.26,8.23 1.26,-34.7 1.26,86.44 1.26,50.86 1.26,-71.94 1.26,-25.47 1.26,-46.75 1.26,24.71 1.26,-24.88 1.26,-3.28 1.26,24 1.25,36.87 1.26,-82.96 1.26,19.73 1.26,69.75 1.26,-40.93 1.26,48.54 1.26,18.04 1.26,-19.45 1.26,-37.53 1.26,15.63 1.26,-23.36 1.26,39.93 1.26,-10.27 1.26,43.88 1.26,-81.87 1.26,39.94 1.26,9.16 1.26,-54.48 1.26,8.11 1.26,49.09 1.26,-22.12 1.26,68.55 1.26,16.81 1.26,-135.45 1.26,51.59 1.26,-60.2 1.26,-2.05 1.25,5.42 1.26,-54.44 1.26,69.54 1.26,-9.05 1.26,84.93 1.26,-40.98 1.26,-58.89 1.26,97.88 1.26,-70.03 1.26,23.95 1.26,-9.83 1.26,32.09 1.26,-21.25 1.26,-58.33 1.26,60.72 1.26,-9.9 1.26,63.77 1.26,-89.82 1.26,35.16 1.26,43.53 1.26,9.24 1.26,12.39 1.26,-27.29 1.26,10.56 1.26,-76.65 1.26,40.14 1.26,-88.72 1.25,11.81 1.26,51.12 1.26,24.57 1.26,32.98 1.26,-27.98 1.26,22.9 1.26,-45.99 1.26,15.09 1.26,9.63 1.26,-13.86 1.26,0.82 1.26,-4.32 1.26,-26.6 1.26,4.29 1.26,-9.87 1.26,-4.79 1.26,-48.28 1.26,36.23 1.26,-12.22 1.26,54.23 1.26,10.45 1.26,5.47 1.26,-27.32 1.26,8.15 1.26,31.71 1.26,-16.9 1.26,-63.44 1.26,22.95 1.25,72.15 1.26,-50.11 1.26,70.91 1.26,-97.19 1.26,8.87 1.26,45.07 1.26,-10.46 1.26,-11.89 1.26,-19.17 1.26,33.18 1.26,-37.27 1.26,-43.36 1.26,4.83 1.26,44 1.26,36.55 1.26,4.16 1.26,45.08 1.26,-30.98 1.26,3.12 1.26,-17.42 1.26,0.25 1.26,38.17 1.26,-21.07 1.26,11.28 1.26,-31.94 1.26,2.55 1.26,22.75 1.25,-43.78 1.26,16.11 1.26,11.94 1.26,10.13 1.26,9.22 1.26,-11.18 1.26,-42.03 1.26,56.99 1.26,-7.95 1.26,-12.83 1.26,22.9 1.26,-84.48 1.26,41.08 1.26,12.25 1.26,-7.2 1.26,-1.5 1.26,-16.41 1.26,20.73 1.26,-68.25 1.26,3.53 1.26,-19.89 1.26,31.77 1.26,36.89 1.26,-97.07 1.26,53.78 1.26,-35.72 1.26,34.64 1.25,37.61 1.26,53.36 1.26,-26.42 1.26,29.68 1.26,-68.8 1.26,47.7 1.26,32.84 1.26,-70.03 1.26,63.99 1.26,-15.02 1.26,4.16 1.26,4.45 1.26,-42.03 1.26,-32.5 1.26,45.51 1.26,28.33 1.26,-66.84 1.26,-19.86 1.26,44.46 1.26,51.34 1.26,24.78 1.26,-64.35 1.26,-22.1 1.26,37.81 1.26,-52.79 1.26,11.22 1.26,-20.37 1.25,-30.95 1.26,-17.66 1.26,64.46 1.26,-47.19 1.26,39.9"
+           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path24" />
+      </g>
+    </g>
+    <g
+       id="g26">
+      <path
+         d="M 67.81,73.44 H 319.73"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path28" />
+      <path
+         d="m 67.81,73.44 v -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path30" />
+      <path
+         d="m 130.79,73.44 v -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path32" />
+      <path
+         d="m 193.77,73.44 v -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path34" />
+      <path
+         d="m 256.75,73.44 v -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path36" />
+      <path
+         d="m 319.73,73.44 v -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path38" />
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,52.8,47.52)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text42"><tspan
+           x="0 6.6719999 10.008 16.68 23.351999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan40">0.000</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,115.78,47.52)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text46"><tspan
+           x="0 6.6719999 10.008 16.68 23.351999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan44">0.005</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,178.76,47.52)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text50"><tspan
+           x="0 6.6719999 10.008 16.68 23.351999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan48">0.010</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,241.74,47.52)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text54"><tspan
+           x="0 6.6719999 10.008 16.68 23.351999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan52">0.015</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,304.72,47.52)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text58"><tspan
+           x="0 6.6719999 10.008 16.68 23.351999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan56">0.020</tspan></text>
+      <path
+         d="M 59.04,111.2 V 283.42"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path60" />
+      <path
+         d="m 59.04,111.2 h -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path62" />
+      <path
+         d="m 59.04,154.26 h -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path64" />
+      <path
+         d="m 59.04,197.31 h -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path66" />
+      <path
+         d="m 59.04,240.37 h -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path68" />
+      <path
+         d="m 59.04,283.42 h -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path70" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0,1,1,0,41.76,104.36)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text74"><tspan
+           x="0 7.0079999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan72">−2</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0,1,1,0,41.76,147.42)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text78"><tspan
+           x="0 7.0079999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan76">−1</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0,1,1,0,41.76,193.98)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text82"><tspan
+           x="0"
+           y="0"
+           id="tspan80">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0,1,1,0,41.76,237.03)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text86"><tspan
+           x="0"
+           y="0"
+           id="tspan84">1</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0,1,1,0,41.76,280.09)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text90"><tspan
+           x="0"
+           y="0"
+           id="tspan88">2</tspan></text>
+      <path
+         d="M 59.04,73.44 H 329.76 V 300.96 H 59.04 Z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path92" />
+    </g>
+    <g
+       id="g94">
+      <g
+         id="g96"
+         clip-path="url(#clipPath100)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,117.37,325.45)"
+           style="font-variant:normal;font-weight:bold;font-size:14px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 7.434 15.218 20.454 29.148001 36.931999 41.594002 45.486 53.27 57.161999 66.5 74.283997 78.945999 82.837997 95.283997 103.068 107.73 115.514 119.406 126.84 132.286 140.84 145.502"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">Target 1 Estimate/Truth</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,172.4,18.72)"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 7.3319998 9.9960003 19.992001 26.664 30 33.995998 39.995998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">Time (s)</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0,1,1,0,12.96,165.58)"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 5.8920002 12.564 16.559999 23.232 29.903999 33.240002 36.576"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">Target 1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g114">
+      <g
+         id="g116"
+         clip-path="url(#clipPath120)">
+        <path
+           d="m 69.07,227.19 1.26,11.88 1.26,-81.44 1.26,72.24 1.26,-39.35 1.25,-9.56 1.26,-38.91 1.26,9.25 1.26,-1.2 1.26,60.51 1.26,-18.02 1.26,21.99 1.26,22.45 1.26,-64.41 1.26,5.35 1.26,49.08 1.26,-3.18 1.26,-42.69 1.26,29.83 1.26,-61.25 1.26,60.18 1.26,-6.61 1.26,27.3 1.26,-67.81 1.26,-40.1 1.26,56.61 1.26,20.1 1.26,36.63 1.26,-19.34 1.26,19.56 1.26,2.65 1.26,-18.94 1.25,-28.87 1.26,65.11 1.26,-15.51 1.26,-54.93 1.26,32.27 1.26,-38.28 1.26,-14.14 1.26,15.26 1.26,29.43 1.26,-12.22 1.26,18.43 1.26,-31.35 1.26,8.07 1.26,-34.51 1.26,64.29 1.26,-31.26 1.26,-7.22 1.26,42.92 1.26,-6.44 1.26,-38.57 1.26,17.39 1.26,-53.72 1.26,-13.16 1.26,106.43 1.26,-40.65 1.26,47.36 1.26,1.6 1.25,-4.08 1.26,42.63 1.26,-54.66 1.26,6.99 1.26,-66.7 1.26,32.06 1.26,46.17 1.26,-76.77 1.26,54.98 1.26,-18.68 1.26,7.56 1.26,-25.31 1.26,16.85 1.26,45.98 1.26,-47.92 1.26,7.81 1.26,-50.03 1.26,70.57 1.26,-27.49 1.26,-34.33 1.26,-7.41 1.26,-9.8 1.26,21.8 1.26,-8.38 1.26,60.04 1.26,-31.41 1.26,69.67 1.25,-9.21 1.26,-40.02 1.26,-19.35 1.26,-26.22 1.26,22.17 1.26,-17.97 1.26,35.81 1.26,-11.84 1.26,-7.63 1.26,10.72 1.26,-0.45 1.26,3.35 1.26,20.66 1.26,-3.02 1.26,7.85 1.26,3.76 1.26,37.96 1.26,-28.41 1.26,9.72 1.26,-42.6 1.26,-8.13 1.26,-4.37 1.26,21.49 1.26,-6.09 1.26,-25.13 1.26,13.39 1.26,49.79 1.26,-18.12 1.25,-56.74 1.26,39.51 1.26,-55.89 1.26,76.33 1.26,-7.08 1.26,-35.48 1.26,8.38 1.26,9.32 1.26,14.96 1.26,-26.07 1.26,29.38 1.26,34.01 1.26,-3.71 1.26,-34.43 1.26,-28.87 1.26,-3.22 1.26,-35.41 1.26,24.38 1.26,-2.55 1.26,13.66 1.26,-0.15 1.26,-29.99 1.26,16.7 1.26,-8.93 1.26,25.06 1.26,-2.05 1.26,-17.83 1.25,34.49 1.26,-12.66 1.26,-9.38 1.26,-7.96 1.26,-7.45 1.26,8.87 1.26,32.88 1.26,-44.89 1.26,6.1 1.26,10.25 1.26,-18.02 1.26,66.36 1.26,-32.22 1.26,-9.67 1.26,5.78 1.26,1.43 1.26,12.71 1.26,-16.38 1.26,53.65 1.26,-2.74 1.26,15.74 1.26,-25.06 1.26,-29.04 1.26,76.25 1.26,-42.22 1.26,28.03 1.26,-27.11 1.25,-29.58 1.26,-41.9 1.26,20.69 1.26,-23.29 1.26,53.92 1.26,-37.53 1.26,-25.7 1.26,54.92 1.26,-50.41 1.26,11.93 1.26,-3.4 1.26,-3.43 1.26,32.98 1.26,25.58 1.26,-35.67 1.26,-22.14 1.26,52.54 1.26,15.5 1.26,-34.79 1.26,-40.36 1.26,-19.43 1.26,50.56 1.26,17.56 1.26,-29.83 1.26,41.46 1.26,-8.72 1.26,16.18 1.25,24.2 1.26,13.91 1.26,-50.67 1.26,37.02 1.26,-31.31"
+           style="fill:none;stroke:#ff0000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path122" />
+      </g>
+    </g>
+    <g
+       id="g124">
+      <g
+         id="g126"
+         clip-path="url(#clipPath130)">
+        <path
+           d="m 429.07,251.29 1.26,-5.32 1.26,14.78 1.26,-39.17 1.26,21.59 1.25,1.58 1.26,-30.54 1.26,-2.21 1.26,-11.03 1.26,-36.76 1.26,11.63 1.26,7.09 1.26,-35 1.26,9.28 1.26,12.53 1.26,-18.65 1.26,39.79 1.26,1.78 1.26,-15.68 1.26,25.25 1.26,-7.09 1.26,-30.2 1.26,8.08 1.26,20.6 1.26,-28.14 1.26,18.04 1.26,18.35 1.26,-18.82 1.26,14.08 1.26,3.84 1.26,15.26 1.26,-18.86 1.25,22.41 1.26,-15.96 1.26,-1.56 1.26,-28.52 1.26,25.45 1.26,-31.87 1.26,7.87 1.26,-4.12 1.26,-13.76 1.26,13.87 1.26,15.28 1.26,4.51 1.26,0.47 1.26,-6.99 1.26,-6.63 1.26,25.74 1.26,-3.83 1.26,23.85 1.26,-14.41 1.26,-1.79 1.26,3.97 1.26,28.53 1.26,8.96 1.26,3.74 1.26,-26.39 1.26,14.55 1.26,-2.67 1.25,38.25 1.26,-29.77 1.26,-6.82 1.26,-24.48 1.26,7.09 1.26,-30.79 1.26,-19.24 1.26,28.15 1.26,-8.63 1.26,27.55 1.26,-34.01 1.26,-19.76 1.26,31.36 1.26,32.95 1.26,-44.96 1.26,4.96 1.26,16.76 1.26,-0.04 1.26,27.14 1.26,-27.11 1.26,-32.96 1.26,-13.24 1.26,75.71 1.26,-16.17 1.26,-38.67 1.26,25.6 1.26,-4.82 1.25,12.68 1.26,30.84 1.26,-10.13 1.26,-65.27 1.26,40.41 1.26,3.36 1.26,-67.75 1.26,2.82 1.26,-13.14 1.26,-34.89 1.26,39.6 1.26,-8.75 1.26,-50.03 1.26,74.34 1.26,19.69 1.26,-1.21 1.26,7.41 1.26,12.12 1.26,24.46 1.26,1.35 1.26,17.59 1.26,-15.42 1.26,3.58 1.26,66.75 1.26,-46.41 1.26,25.42 1.26,-11.59 1.26,-19 1.25,-10.63 1.26,29.61 1.26,-39.39 1.26,-6.14 1.26,-23.35 1.26,-13.47 1.26,33.12 1.26,-4.98 1.26,-21.34 1.26,1.14 1.26,20.25 1.26,-11.15 1.26,17.14 1.26,29.51 1.26,-32.64 1.26,9.94 1.26,2.31 1.26,7.37 1.26,-19.36 1.26,-6.56 1.26,10.93 1.26,-1.2 1.26,30.15 1.26,-13.66 1.26,-6.51 1.26,-9.41 1.26,7.91 1.25,20.01 1.26,-0.08 1.26,-2.31 1.26,1.81 1.26,-44.5 1.26,20.21 1.26,-30.67 1.26,-23.86 1.26,-30.56 1.26,33.91 1.26,-5.43 1.26,-1.16 1.26,10.41 1.26,-10.55 1.26,26.43 1.26,52.33 1.26,-38.18 1.26,-19.27 1.26,7.51 1.26,6.64 1.26,24.01 1.26,-20.8 1.26,-13.01 1.26,-2.65 1.26,5.82 1.26,-6.01 1.26,21.77 1.25,-7.66 1.26,6 1.26,-14.22 1.26,7.13 1.26,-29.57 1.26,-10.32 1.26,20.33 1.26,-22.24 1.26,-28.22 1.26,28.04 1.26,-28.91 1.26,14.82 1.26,-7.84 1.26,10.02 1.26,16.46 1.26,25.01 1.26,6.09 1.26,-19.66 1.26,28.17 1.26,-5.75 1.26,7.53 1.26,2.16 1.26,40.9 1.26,-25.59 1.26,-4.12 1.26,20.58 1.26,37.52 1.25,-24.12 1.26,7.02 1.26,-5.95 1.26,-12.28 1.26,8.68"
+           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path132" />
+      </g>
+    </g>
+    <g
+       id="g134">
+      <path
+         d="M 427.81,73.44 H 679.73"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path136" />
+      <path
+         d="m 427.81,73.44 v -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path138" />
+      <path
+         d="m 490.79,73.44 v -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path140" />
+      <path
+         d="m 553.77,73.44 v -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path142" />
+      <path
+         d="m 616.75,73.44 v -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path144" />
+      <path
+         d="m 679.73,73.44 v -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path146" />
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,412.8,47.52)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text150"><tspan
+           x="0 6.6719999 10.008 16.68 23.351999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan148">0.000</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,475.78,47.52)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text154"><tspan
+           x="0 6.6719999 10.008 16.68 23.351999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan152">0.005</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,538.76,47.52)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text158"><tspan
+           x="0 6.6719999 10.008 16.68 23.351999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan156">0.010</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,601.74,47.52)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text162"><tspan
+           x="0 6.6719999 10.008 16.68 23.351999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan160">0.015</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,664.72,47.52)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text166"><tspan
+           x="0 6.6719999 10.008 16.68 23.351999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan164">0.020</tspan></text>
+      <path
+         d="M 419.04,97.2 V 270.91"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path168" />
+      <path
+         d="m 419.04,97.2 h -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path170" />
+      <path
+         d="m 419.04,131.94 h -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path172" />
+      <path
+         d="m 419.04,166.68 h -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path174" />
+      <path
+         d="m 419.04,201.42 h -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path176" />
+      <path
+         d="m 419.04,236.16 h -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path178" />
+      <path
+         d="m 419.04,270.91 h -7.2"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path180" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0,1,1,0,401.76,85.36)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text184"><tspan
+           x="0 7.0079999 13.68 17.016001"
+           y="0"
+           sodipodi:role="line"
+           id="tspan182">−1.5</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0,1,1,0,401.76,120.1)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text188"><tspan
+           x="0 7.0079999 13.68 17.016001"
+           y="0"
+           sodipodi:role="line"
+           id="tspan186">−1.0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0,1,1,0,401.76,154.84)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text192"><tspan
+           x="0 7.0079999 13.68 17.016001"
+           y="0"
+           sodipodi:role="line"
+           id="tspan190">−0.5</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0,1,1,0,401.76,193.08)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text196"><tspan
+           x="0 6.6719999 10.008"
+           y="0"
+           sodipodi:role="line"
+           id="tspan194">0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0,1,1,0,401.76,227.82)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text200"><tspan
+           x="0 6.6719999 10.008"
+           y="0"
+           sodipodi:role="line"
+           id="tspan198">0.5</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0,1,1,0,401.76,262.57)"
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text204"><tspan
+           x="0 6.6719999 10.008"
+           y="0"
+           sodipodi:role="line"
+           id="tspan202">1.0</tspan></text>
+      <path
+         d="M 419.04,73.44 H 689.76 V 300.96 H 419.04 Z"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path206" />
+    </g>
+    <g
+       id="g208">
+      <g
+         id="g210"
+         clip-path="url(#clipPath214)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,477.37,325.45)"
+           style="font-variant:normal;font-weight:bold;font-size:14px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text218"><tspan
+             x="0 7.434 15.218 20.454 29.148001 36.931999 41.594002 45.486 53.27 57.161999 66.5 74.283997 78.945999 82.837997 95.283997 103.068 107.73 115.514 119.406 126.84 132.286 140.84 145.502"
+             y="0"
+             sodipodi:role="line"
+             id="tspan216">Target 2 Estimate/Truth</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,532.4,18.72)"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text222"><tspan
+             x="0 7.3319998 9.9960003 19.992001 26.664 30 33.995998 39.995998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan220">Time (s)</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0,1,1,0,372.96,165.58)"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text226"><tspan
+             x="0 5.8920002 12.564 16.559999 23.232 29.903999 33.240002 36.576"
+             y="0"
+             sodipodi:role="line"
+             id="tspan224">Target 1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g228">
+      <g
+         id="g230"
+         clip-path="url(#clipPath234)">
+        <path
+           d="m 429.07,120.33 1.26,8.75 1.26,-24.79 1.26,64.29 1.26,-35.44 1.25,-2.65 1.26,49.17 1.26,3.68 1.26,17.88 1.26,60.26 1.26,-19.05 1.26,-11.29 1.26,57.01 1.26,-15.69 1.26,-20.28 1.26,30.74 1.26,-64.59 1.26,-3.32 1.26,25.75 1.26,-41.57 1.26,12.09 1.26,48.94 1.26,-12.84 1.26,-34.11 1.26,45.27 1.26,-28.7 1.26,-29.58 1.26,30.89 1.26,-23.04 1.26,-6.04 1.26,-24.73 1.26,30.41 1.25,-36.63 1.26,26.52 1.26,2.38 1.26,45.75 1.26,-40.99 1.26,51.34 1.26,-12.91 1.26,6.83 1.26,22.63 1.26,-22.63 1.26,-24.61 1.26,-7.63 1.26,-0.68 1.26,11 1.26,11.39 1.26,-42.08 1.26,6.15 1.26,-38.29 1.26,23.32 1.26,2.53 1.26,-6.26 1.26,-46.83 1.26,-14.67 1.26,-5.03 1.26,42.43 1.26,-23.14 1.26,4.35 1.25,-62.12 1.26,48.74 1.26,10.52 1.26,39.8 1.26,-12.17 1.26,50.28 1.26,31.68 1.26,-46.44 1.26,14.56 1.26,-44.89 1.26,55.26 1.26,31.8 1.26,-50.71 1.26,-53.02 1.26,72.48 1.26,-7.96 1.26,-27.7 1.26,0.76 1.26,-44.3 1.26,43.64 1.26,53.43 1.26,21.37 1.26,-122.64 1.26,26.17 1.26,63.34 1.26,-41.86 1.26,8.51 1.25,-20.66 1.26,-50.44 1.26,16.24 1.26,105.65 1.26,-65.34 1.26,-5.64 1.26,110.29 1.26,-4.68 1.26,21.24 1.26,56.73 1.26,-64.26 1.26,14.22 1.26,81.4 1.26,-120.67 1.26,-31.88 1.26,2 1.26,-11.64 1.26,-19.95 1.26,-39.6 1.26,-2.61 1.26,-28.63 1.26,24.98 1.26,-5.59 1.26,-108.39 1.26,75.07 1.26,-41.11 1.26,19.29 1.26,30.65 1.25,16.7 1.26,-47.67 1.26,63.37 1.26,10.72 1.26,37.82 1.26,21.51 1.26,-53.66 1.26,8.17 1.26,34.78 1.26,-2.11 1.26,-32.56 1.26,18.42 1.26,-27.85 1.26,-48.23 1.26,52.68 1.26,-16.16 1.26,-4.1 1.26,-11.71 1.26,31.39 1.26,10.78 1.26,-17.74 1.26,1.66 1.26,-48.77 1.26,22.08 1.26,10.81 1.26,15.25 1.26,-13.01 1.25,-32.14 h 1.26 l 1.26,3.67 1.26,-3.01 1.26,72.14 1.26,-32.72 1.26,50.09 1.26,38.29 1.26,49.64 1.26,-54.93 1.26,8.64 1.26,2.54 1.26,-17.22 1.26,17.04 1.26,-42.84 1.26,-84.9 1.26,62.08 1.26,31.11 1.26,-11.65 1.26,-10.82 1.26,-38.81 1.26,33.51 1.26,20.84 1.26,5.05 1.26,-9.87 1.26,10.03 1.26,-35.59 1.25,12.14 1.26,-10.15 1.26,23.28 1.26,-11.8 1.26,48.51 1.26,16.38 1.26,-33.24 1.26,36.63 1.26,45.29 1.26,-45.39 1.26,46.89 1.26,-24.08 1.26,13.05 1.26,-16.01 1.26,-27.06 1.26,-40.8 1.26,-9.37 1.26,32.05 1.26,-46.06 1.26,8.94 1.26,-12.4 1.26,-3.02 1.26,-66.19 1.26,41.22 1.26,7.1 1.26,-33.48 1.26,-60.72 1.25,39.37 1.26,-11.25 1.26,9.16 1.26,20.28 1.26,-14.39"
+           style="fill:none;stroke:#ff0000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path236" />
+      </g>
+    </g>
+  </g>
+</svg>

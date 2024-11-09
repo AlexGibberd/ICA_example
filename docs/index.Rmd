@@ -106,31 +106,31 @@ rotate <- function(theta){
 # The sources are recorded on two channels each
 # For simplicity, we take the left hand channel on both sound files
 
-X <- cbind(w1@left,w2@left)
+S <- cbind(w1@left,w2@left)
 
 # Rotate and Mix Signals
-X2 <- X %*% rotate(45)
+O <- S %*% rotate(45)
 
 # Convert back to wav file
-X2.wav = Wave(round(X2[,1]),samp.rate = 10000, bit=24)
+O.wav = Wave(round(O[,1]),samp.rate = 10000, bit=24)
 ```
 
 We can now plot the signals. The plots on the left are what the submariner would observe on their sensors, the plot on the right is the sound emitted by the source
 ```{r}
 # Visualise the rotated data and the original
 par(mfrow=c(2,2))
-time = (1:1000)/10000
-plot(time,X2[1:1000,1],type = "l", xlab = "Time (s)", ylab = "Observed Sound",
+time = (1:200)/10000
+plot(time,O[1:200,1],type = "l", xlab = "Time (s)", ylab = "Observed Sound",
      main = "Mixed signals")
-plot(time, X[1:1000,1],type = "l", xlab = "Time (s)", ylab = "Tanker Sound",
+plot(time, S[1:200,1],type = "l", xlab = "Time (s)", ylab = "Tanker Sound",
      main = "Original signals")
-plot(time, X2[1:1000,2],type = "l", xlab = "Time (s)", ylab = "Observed Sound")
-plot(time, X[1:1000,2],type = "l", xlab = "Time (s)", ylab = "Submarine Sound")
+plot(time, O[1:200,2],type = "l", xlab = "Time (s)", ylab = "Observed Sound")
+plot(time, S[1:200,2],type = "l", xlab = "Time (s)", ylab = "Submarine Sound")
 
 ```
 
 ```{r, eval=FALSE}
-play(X2.wav)
+play(O.wav)
 ```
 
 We will use an algorithm called `fastICA` to do the de-mixing. This tries to rotate the observed signals until they 'look' like they are independent signals. How one measures independence (or lack of it) is quite a complex topic (you need to learn some information theory for this). It is worth to note there are many variants of ICA which use different measures to the example run here.
@@ -142,20 +142,21 @@ We will use an algorithm called `fastICA` to do the de-mixing. This tries to rot
 set.seed(1)
 # Statistical method for unmixing signals based on the assumption that sources are independent
 
-ica <- fastICA(X2, 2, alg.typ = "parallel", fun = "logcosh", alpha = 1,
+ica <- fastICA(O, 2, alg.typ = "parallel", fun = "logcosh", alpha = 1,
                method = "R", row.norm = FALSE, maxit = 200,
                tol = 0.00001, verbose = FALSE)
 
-X.norm <- X/sd(X)
+# Standardize the source signals so they have standard-deviation 1
+S.norm <- S/sd(S)
 
 # Let's plot the original signals (black) and compare to the estimated source signals (in red)
 
 par(mfrow=c(1,2))
-time =(1:500)/10000 # we only plot the first 0.05 seconds...
-plot(time, X.norm[1:500,2],type="l",col="black", xlab = "Time (s)", ylab = "Target 1", main = "Target 1 Estimate/Truth")
-lines(time,ica$S[1:500,1],col="red")
-plot(time,X.norm[1:500,1],type="l",col="black", xlab = "Time (s)", ylab = "Target 1", main = "Target 2 Estimate/Truth")
-lines(time, ica$S[1:500,2],col="red")
+time =(1:200)/10000 # we only plot the first 0.05 seconds...
+plot(time, S.norm[1:200,2],type="l",col="black", xlab = "Time (s)", ylab = "Target 1", main = "Target 1 Estimate/Truth")
+lines(time,ica$S[1:200,1],col="red")
+plot(time,S.norm[1:200,1],type="l",col="black", xlab = "Time (s)", ylab = "Target 1", main = "Target 2 Estimate/Truth")
+lines(time, ica$S[1:200,2],col="red")
 
 ```
 
@@ -166,8 +167,8 @@ The signals appear to be recovered, but are flipped upside down. This is because
 
 We can also look at the error as measured by the root-mean-square error (RMSE):
 ```{r}
-err1 = sqrt(sum((X.norm[1:1000,2]-(-1)*ica$S[1:1000,1])^2)/1000)
-err2 = sqrt(sum((X.norm[1:1000,1]-(-1)*ica$S[1:1000,2])^2)/1000)
+err1 = sqrt(sum((S.norm[1:200,2]-(-1)*ica$S[1:200,1])^2)/200)
+err2 = sqrt(sum((S.norm[1:200,1]-(-1)*ica$S[1:200,2])^2)/200)
 err1
 err2
 ```
@@ -175,10 +176,10 @@ Comparing these values to the scale of the signal, we see they are relatively sm
 
 ```{r}
 par(mfrow=c(1,2))
-plot(time, X.norm[1:500,2],type="l",col="black", xlab = "Time (s)", ylab = "Target 1", main = "Target 1 Estimate/Truth")
-lines(time, -1*ica$S[1:500,1],col="red")
-plot(time, X.norm[1:500,1],type="l",col="black", xlab = "Time (s)", ylab = "Target 1", main = "Target 2 Estimate/Truth")
-lines(time, -1*ica$S[1:500,2],col="red")
+plot(time, S.norm[1:200,2],type="l",col="black", xlab = "Time (s)", ylab = "Target 1", main = "Target 1 Estimate/Truth")
+lines(time, -1*ica$S[1:200,1],col="red")
+plot(time, S.norm[1:200,1],type="l",col="black", xlab = "Time (s)", ylab = "Target 1", main = "Target 2 Estimate/Truth")
+lines(time, -1*ica$S[1:200,2],col="red")
 ```
 
 ## Applications in Economics
