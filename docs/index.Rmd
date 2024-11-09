@@ -193,7 +193,7 @@ It is important that as students you can learn about techniques such as ICA, and
 
 _I hope you enjoyed this tutorial, and look forward to seeing some of you in Lancaster for our BSc Mathematics and Economics programme. If you want more information on the programme, please do reach out to your teachers. You can also email me at a.gibberd@lancaster.ac.uk_
 
-(https://www.lancasteruniversity.cn/)[For more information on Lancaster University (click here)]
+[For more information on Lancaster University (click here)](https://www.lancasteruniversity.cn/)
 
 
 
